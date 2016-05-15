@@ -1,1 +1,1 @@
-## Front-End_StudyNote
+## Front-End Notes is collected
